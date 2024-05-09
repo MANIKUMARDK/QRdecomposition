@@ -59,7 +59,8 @@ QR_Decomposition(a)
 
 ```
 
-## Output![image](https://github.com/MANIKUMARDK/QRdecomposition/assets/147215581/7c54c9c5-f50d-4cab-81f6-7f84484d83fa)
+## Output![image](https://github.com/MANIKUMARDK/QRdecomposition/assets/147215581/62da2df4-d504-4552-af23-a51b5bb7779f)
+
 
 ```
 
